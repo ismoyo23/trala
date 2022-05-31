@@ -8,7 +8,7 @@
   type: T
 }" (dikarenakan settingan adalah default dari redux jadi setiap selesai npm install --force lakukan cara ini)
 
-- Atau jika ctrl + p tidak muncul bisa melalui directory node_modules, index.d.ts
+- Atau jika ctrl + p tidak muncul bisa melalui directory node_modules -> index.d.ts
 
 ![typedataglobal](https://user-images.githubusercontent.com/63132957/171201107-b099f282-5c28-48ea-93a7-7cc4d06ca1fd.png)
 
