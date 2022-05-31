@@ -2,7 +2,7 @@
 - npm install --force
 
 
-# Penjelasan
+# Configurasi
 
 - ketika sudah melakukan npm start --force, click ctrl + p, lalu ketik index.d.ts, lalu hapus "export interface Action<T = any> {
   type: T
@@ -26,6 +26,7 @@
 - format action tidak di hapus
 ![typedatageneral](https://user-images.githubusercontent.com/63132957/171201030-eebef192-b9f0-4eb5-b3b5-04561076ad16.png)
 
-
+#hasil
+![result](https://user-images.githubusercontent.com/63132957/171216707-2c07d6bc-63c7-4958-b55f-bab8527f079e.png)
 
 
